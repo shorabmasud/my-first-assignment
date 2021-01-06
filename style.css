@@ -1,0 +1,38 @@
+h1{
+    font-size: 80px;
+    color: #363958;
+    font-family:Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 80px;
+}
+h2{
+    font-size: 70px;
+    font-family:Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    color:#FF8367;
+    font-family: Roboto;
+}
+p{
+    color: 
+    #3E3E3E;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration:none;
+    text-decoration: none;
+    background-color:#F86861;
+    padding: 20px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
