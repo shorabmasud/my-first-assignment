@@ -36,3 +36,23 @@ p{
     color: white;
     font-weight: 700;
 }
+.working-project{
+    width:20%;
+    float:left;
+    margin-left:10%;
+    padding-left:auto;
+}
+.working-project{
+    /* clear:left; */
+}
+
+.working-project img{
+    width:100% 
+}
+.full{
+    clear:both
+}
+section{
+    height: 300px;
+    padding-bottom: 100px;
+} 
